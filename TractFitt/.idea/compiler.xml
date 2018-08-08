@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TractFitt" />
+        <module name="TractFitt (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="TractFitt" target="1.5" />
+      <module name="TractFitt (1)" target="1.5" />
+      <module name="TractFitt (2)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
