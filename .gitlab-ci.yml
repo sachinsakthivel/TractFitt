@@ -8,4 +8,4 @@ generate_artifacts:
     - mvn -B clean site package
   artifacts:
     paths:
-      - TractFitt/target/s202*.jar
+      - cd TractFitt target/s202*.jar
