@@ -10,7 +10,6 @@ public class App {
     public int[] getTestArray() {
         return testArray;
     }
-
     public void setTestArray(int[] testArray) {
         this.testArray = testArray;
     }
