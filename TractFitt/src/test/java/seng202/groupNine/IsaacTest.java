@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 public class IsaacTest {
     @Test
-    public void IsaacTest() {
-        
-    }
+    public void IsaacTest() { Assert.assertTrue(true); }
 
 }
